@@ -10,3 +10,6 @@
 5. Использовать контроль версий.
 ___
 
+# Ссылка на блок-схему
+
+https://drive.google.com/file/d/1ERyvKiPYaTcZyTeBs79EOs4H-hpyaBlk/view?usp=sharing
